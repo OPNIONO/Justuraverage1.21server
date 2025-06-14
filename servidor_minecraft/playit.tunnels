@@ -9,34 +9,34 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "audio-collections.gl.joinmc.link",
-          "assigned_srv": "audio-collections.gl.joinmc.link",
+          "assigned_domain": "standards-lithuania.gl.joinmc.link",
+          "assigned_srv": "standards-lithuania.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "0363c6f2-0565-45a0-a633-606a3290c046",
-          "ip_hostname": "29.ip.gl.ply.gg",
+          "id": "1be663ed-9b08-4c33-b9fc-942f62ba9072",
+          "ip_hostname": "28.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 23655,
-          "port_start": 23654,
+          "port_end": 53961,
+          "port_start": 53960,
           "region": "global",
-          "static_ip4": "147.185.221.29",
-          "static_ip6": "2602:fbaf:0:1::1d",
-          "tunnel_ip": "2602:fbaf:0:1::1d"
+          "static_ip4": "147.185.221.28",
+          "static_ip6": "2602:fbaf:0:1::1c",
+          "tunnel_ip": "2602:fbaf:0:1::1c"
         },
         "status": "allocated"
       },
-      "created_at": "2025-06-13T10:57:08.054834Z",
+      "created_at": "2025-06-14T10:14:00.053478Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "b25854c1-1672-4126-953c-7239c244c274",
+      "id": "6dfc46a3-78bb-40ae-85d7-2ba1444e351a",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "88b2428a-bfed-4247-a234-f6c092a3eb14",
-          "agent_name": "from-key-74bb",
+          "agent_id": "39132ab0-3254-48a5-a94b-4b08b2879ab6",
+          "agent_name": "from-key-0a5b",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },

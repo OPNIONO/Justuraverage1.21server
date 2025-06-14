@@ -1,94 +1,74 @@
-[10:58:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[10:58:46] [ServerMain/INFO]: No existing world data, creating new world
-[10:58:46] [ServerMain/INFO]: Loaded 1290 recipes
-[10:58:47] [ServerMain/INFO]: Loaded 1399 advancements
-[10:58:47] [Server thread/INFO]: Starting minecraft server version 1.21
-[10:58:47] [Server thread/INFO]: Loading properties
-[10:58:47] [Server thread/INFO]: Default game type: SURVIVAL
-[10:58:47] [Server thread/INFO]: Generating keypair
-[10:58:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:58:47] [Server thread/INFO]: Using epoll channel type
-[10:58:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:58:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:58:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:58:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:58:47] [Server thread/INFO]: Preparing level "world"
-[10:58:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:58:55] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[10:58:56] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[10:58:56] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[10:58:56] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[10:58:56] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[10:58:57] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[10:58:58] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[10:58:58] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[10:58:59] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[10:58:59] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[10:59:00] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[10:59:00] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[10:59:00] [Worker-Main-3/INFO]: Preparing spawn area: 48%
-[10:59:01] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[10:59:02] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[10:59:02] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[10:59:02] [Server thread/INFO]: Time elapsed: 7905 ms
-[10:59:02] [Server thread/INFO]: Done (15.131s)! For help, type "help"
-[10:59:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[10:59:02] [Server thread/INFO]: home/codespace/.python/current/bin/python /workspaces/Justuraverage1.21server/msx.py<--[HERE]
-[10:59:49] [Server thread/INFO]: ExpertDead[/127.122.8.163:35831] logged in with entity id 21 at (8.5, 68.0, 11.5)
-[10:59:49] [Server thread/INFO]: ExpertDead joined the game
-[11:02:10] [Server thread/INFO]: ExpertDead lost connection: Disconnected
-[11:02:10] [Server thread/INFO]: ExpertDead left the game
-[11:20:38] [Server thread/INFO]: ExpertDead[/127.122.8.163:36849] logged in with entity id 1053 at (-7.219510555457198, 67.0, -123.81207747600779)
-[11:20:38] [Server thread/INFO]: ExpertDead joined the game
-[11:21:28] [Server thread/INFO]: deadpandude[/127.130.64.210:41553] logged in with entity id 1398 at (14.5, 75.0, 14.5)
-[11:21:28] [Server thread/INFO]: deadpandude joined the game
-[11:22:43] [Server thread/INFO]: ExpertDead has made the advancement [Stone Age]
-[11:23:07] [Server thread/INFO]: ExpertDead has made the advancement [Getting an Upgrade]
-[11:24:11] [Server thread/INFO]: deadpandude has made the advancement [Stone Age]
-[11:24:23] [Server thread/INFO]: [Not Secure] <ExpertDead> hair
-[11:27:22] [Server thread/INFO]: [Not Secure] <ExpertDead> -150 104
-[11:29:37] [Server thread/INFO]: ExpertDead has made the advancement [Monster Hunter]
-[11:30:54] [Server thread/INFO]: Teleported deadpandude to ExpertDead
-[11:31:05] [Server thread/INFO]: ExpertDead has made the advancement [Sweet Dreams]
-[11:31:15] [Server thread/INFO]: deadpandude has made the advancement [Sweet Dreams]
-[11:32:01] [Server thread/INFO]: ExpertDead has made the advancement [Acquire Hardware]
-[11:33:15] [Server thread/INFO]: ExpertDead has made the advancement [A Seedy Place]
-[11:33:26] [Server thread/INFO]: deadpandude has made the advancement [A Seedy Place]
-[11:36:38] [Server thread/INFO]: [Not Secure] <ExpertDead> cross
-[11:39:04] [Server thread/INFO]: Made ExpertDead a server operator
-[11:39:27] [Server thread/INFO]: [ExpertDead: Set own game mode to Creative Mode]
-[11:39:35] [Server thread/INFO]: deadpandude has completed the challenge [Cover Me in Debris]
-[11:39:45] [Server thread/INFO]: ExpertDead has completed the challenge [Cover Me in Debris]
-[11:39:50] [Server thread/INFO]: [ExpertDead: Set own game mode to Survival Mode]
-[11:39:54] [Server thread/INFO]: [ExpertDead: Set own game mode to Creative Mode]
-[11:39:58] [Server thread/INFO]: [ExpertDead: Set own game mode to Survival Mode]
-[11:40:47] [Server thread/INFO]: [ExpertDead: Set own game mode to Creative Mode]
-[11:40:52] [Server thread/INFO]: deadpandude has made the advancement [Acquire Hardware]
-[11:41:07] [Server thread/INFO]: [ExpertDead: Set own game mode to Survival Mode]
-[11:41:16] [Server thread/INFO]: [ExpertDead: Set the time to 1000]
-[11:42:47] [Server thread/INFO]: deadpandude was slain by ExpertDead
-[11:43:40] [Server thread/INFO]: [Not Secure] <ExpertDead> critting
-[11:44:30] [Server thread/INFO]: [ExpertDead: Set own game mode to Creative Mode]
-[11:44:38] [Server thread/INFO]: [ExpertDead: Set own game mode to Survival Mode]
-[11:45:02] [Server thread/INFO]: [ExpertDead: Applied enchantment Knockback I to ExpertDead's item]
-[11:45:10] [Server thread/INFO]: [ExpertDead: Gave 64 [Cobweb] to ExpertDead]
-[11:46:41] [Server thread/INFO]: [Not Secure] <ExpertDead> 5
-[11:46:47] [Server thread/INFO]: [Not Secure] <ExpertDead> 3
-[11:47:29] [Server thread/INFO]: deadpandude was slain by ExpertDead
-[11:48:56] [Server thread/INFO]: [ExpertDead: Gave 16 [Ender Pearl] to deadpandude]
-[11:49:03] [Server thread/INFO]: [ExpertDead: Gave 1 [Water Bucket] to deadpandude]
-[11:49:59] [Server thread/INFO]: [Not Secure] <ExpertDead> use 1 through 9
-[11:50:02] [Server thread/INFO]: [Not Secure] <ExpertDead> sidebuttons
-[11:51:27] [Server thread/INFO]: [ExpertDead: Gave 64 [Cobweb] to deadpandude]
-[11:51:29] [Server thread/INFO]: [ExpertDead: Set the time to 1000]
-[11:51:51] [Server thread/INFO]: deadpandude hit the ground too hard while trying to escape ExpertDead
-[11:53:32] [Server thread/INFO]: deadpandude hit the ground too hard
-[11:57:13] [Server thread/INFO]: [ExpertDead: Set own game mode to Creative Mode]
-[11:57:20] [Server thread/INFO]: deadpandude hit the ground too hard while trying to escape ExpertDead
-[11:57:24] [Server thread/INFO]: [ExpertDead: Set own game mode to Survival Mode]
-[11:58:54] [Server thread/INFO]: ExpertDead lost connection: Disconnected
-[11:58:54] [Server thread/INFO]: ExpertDead left the game
-[11:59:00] [Server thread/INFO]: ExpertDead[/127.122.8.163:53143] logged in with entity id 11108 at (-62.58728527404474, 69.0, 258.30000001192093)
-[11:59:00] [Server thread/INFO]: ExpertDead joined the game
-[11:59:01] [Server thread/INFO]: deadpandude fell from a high place
-[11:59:03] [Server thread/INFO]: [ExpertDead: Set own game mode to Creative Mode]
+[14Jun2025 10:19:31.818] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[14Jun2025 10:19:31.822] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[14Jun2025 10:19:32.196] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[14Jun2025 10:19:32.247] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Justuraverage1.21server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[14Jun2025 10:19:32.530] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Justuraverage1.21server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[14Jun2025 10:19:32.532] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Justuraverage1.21server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Jun2025 10:19:32.533] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Justuraverage1.21server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Jun2025 10:19:32.534] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Justuraverage1.21server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Jun2025 10:19:32.764] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[14Jun2025 10:19:32.826] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'smartbrainlib', Requested by: 'midnight', Expected range: '[1.14.1,2)', Actual version: '[MISSING]'
+[14Jun2025 10:19:34.217] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[14Jun2025 10:19:39.567] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §emidnight§r requires §6smartbrainlib§r §o1.14.1 or above, and below 2§r
+§7Currently, §6smartbrainlib§r§7 is §o§nnot installed
+	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.20.1-47.3.7.jar%23148!/:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:96) ~[fmlcore-1.20.1-47.3.7.jar%23148!/:?]
+	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:128) ~[fmlcore-1.20.1-47.3.7.jar%23148!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.3.7-universal.jar%23152!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[14Jun2025 10:19:39.748] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-06-14_10.19.39-fml.txt
+[14Jun2025 10:19:39.750] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Mod §emidnight§r requires §6smartbrainlib§r §o1.14.1 or above, and below 2§r
+§7Currently, §6smartbrainlib§r§7 is §o§nnot installed
+]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:149) ~[fmlcore-1.20.1-47.3.7.jar%23148!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.3.7-universal.jar%23152!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
